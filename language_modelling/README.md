@@ -1,7 +1,7 @@
 # Language Modelling 
 
 ## Overview
-We include different notebooks to provide the student with practical means to explore language models and transformers, as well as their application in NLP tasks like wotd-sense disambiguation. We follow an incremental approach in accordance with the contents of session 6 of the course, focused on semantics.
+In the following I include different notebooks to provide you with practical means to explore language models and transformers, as well as their application in NLP tasks like wotd-sense disambiguation.
 
 ## N-gram based language models
 In [this notebook](https://github.com/acastellanos-ie/natural_language_processing/blob/master/language_modelling/language%20modelling.ipynb) we are going to start playing with languages models. In particular, we are going to start with the simplest approach based on n-grams. Then, in the following threads, we will move to more advanced approaches based on LSTM and Transformer architectures.
