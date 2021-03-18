@@ -1,7 +1,7 @@
 # Semantics
 
 ## Overview
-We include different notebooks to provide the student with practical means to explore some of the modern methods used to represent meaning in NLP and NLU. We follow an incremental approach in accordance with the contents of session 5 of the course, focused on semantics.
+I the following I included different notebooks to provide you with practical means to explore some of the modern methods used to represent meaning in NLP and NLU. 
 
 ## Notebooks
 
