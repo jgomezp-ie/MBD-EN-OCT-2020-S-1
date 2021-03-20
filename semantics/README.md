@@ -5,13 +5,13 @@ I the following I included different notebooks to provide you with practical mea
 
 ## Notebooks
 
-### Word embeddings
+### Word embeddings (FUNDAMENTAL)
 Our [first notebook](https://github.com/hybridnlp/tutorial/blob/master/01_capturing_word_embeddings.ipynb) is focused on learning word embeddings from a training corpus, assigning a vector to each word, following the distributional representational theory. We will see how to use one of the many algorithms available nowadays to this purpose and illustrate some of the properties that such word vector representations have, allowing for basic semantic operations, like checking word similarity, relatedness and analogy based on the cosine distance between the vectors that represent such words in the embeddings space.
 
-### Knowledge Graph Embeddings
+### Knowledge Graph Embeddings (OPTIONAL)
 Word embeddings aim at capturing the meaning of words based on large corpora; however, there are decades of experience and approaches that have tried to capture meaning by structuring knowledge into semantic networks, ontologies and graphs. Examples of such resources include lexical knowledge graphs like WordNet. The [second notebook](https://github.com/hybridnlp/tutorial/blob/master/02_knowledge_graph_embeddings.ipynb) shows how to leverage such resources and calculate representations of their content, like lemmas, senses, and the relations between them, in a common vector space.
 
-### Hybrid representations from text corpora and knowledge graphs
+### Hybrid representations from text corpora and knowledge graphs (ADVANCED)
 Knowledge graph embedding algorithms can capture structured knowledge about concepts and relations in a graph as embeddings in a vector space, which then can be used in downstream tasks. However, this type of approaches can only capture the knowledge that is explicitly represented in the graph, hence lacking in recall and domain coverage. Here we include toy examples of algorithms that address this limitation through the combination of information from both unstructured text corpora and structured knowledge graphs. The [third notebook](https://github.com/hybridnlp/tutorial/blob/master/03_vecsigrafo.ipynb) shows how to combine document corpora and knowledge graphs to learn richer representations that better capture the meaning of words.
 
 ## Additional resources and bilbiography
